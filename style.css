@@ -1,0 +1,23 @@
+div {
+    margin: 0;
+    padding: 0;
+}
+
+.a {
+    margin-top: 50px;
+
+}
+
+.color-blue {
+    color: rgb(26, 80, 144);
+    margin-bottom: 20px;
+
+}
+
+.p1 {
+    font-size: 20px;
+}
+
+.b {
+    border-radius: 50%;
+}
